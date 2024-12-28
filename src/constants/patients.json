@@ -1,0 +1,29 @@
+[
+  {
+    "id": "30234",
+    "name": "สายชล ชัดเต็ม",
+    "age": 70,
+    "contact": "098-765-4321",
+    "medicalConditions": ["โรคความดันโลหิตสูง"],
+    "allergies": ["พาราเซตามอล"],
+    "injuries": ["ข้อเท้าพลิก", "ปวดกล้ามเนื้อขา"]
+  },
+  {
+    "id": "12345",
+    "name": "สมชาย ใจดี",
+    "age": 50,
+    "contact": "081-123-4567",
+    "medicalConditions": ["เบาหวาน"],
+    "allergies": ["ถั่วลิสง"],
+    "injuries": ["แผลถลอกบริเวณหัวเข่า"]
+  },
+  {
+    "id": "456789",
+    "name": "สมชาย ใจดี",
+    "age": 50,
+    "contact": "081-123-4567",
+    "medicalConditions": ["something"],
+    "allergies": ["something"],
+    "injuries": ["something"]
+  }
+]
